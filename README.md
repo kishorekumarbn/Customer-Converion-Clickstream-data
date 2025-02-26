@@ -14,7 +14,7 @@ This project leverages **Machine Learning** to analyze customer behavior using *
 ## 🚀 Features
 - **📂 CSV Upload & Manual Input:** Choose between uploading a dataset or entering data manually.
 - **🧠 Machine Learning Models: **
--  
+   
    XGBoost Regressor,
   
    Linear Regression,
