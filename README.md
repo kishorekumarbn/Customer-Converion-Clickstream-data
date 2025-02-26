@@ -4,8 +4,11 @@
 This project leverages **Machine Learning** to analyze customer behavior using **Clickstream Data** and predict key insights. It includes:
 
 ✔️ **Regression** - Predicts product price based on user behavior.
+
 ✔️ **Classification** - Categorizes products into different price segments.
+
 ✔️ **Clustering** - Segments customers based on interaction patterns.
+
 ✔️ **Streamlit Web App** - Provides an interactive interface for predictions.
 
 ## 🚀 Features
@@ -17,7 +20,7 @@ This project leverages **Machine Learning** to analyze customer behavior using *
    Lasso,
    Logistic Regression,
    Decision Tree Classifier,
-   Random Forest Classifier
+   Random Forest Classifier,
    DBSCAN
    and KMeans Clustering**.
 - **🔍 Automated Data Preprocessing:** Handles missing values, encodes categorical features, and scales data.
