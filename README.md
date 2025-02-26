@@ -69,6 +69,9 @@ This project leverages **Machine Learning** to analyze customer behavior using *
 Feel free to fork this repo and contribute! 🚀
 
 
+
 By:
+
 Kishore Kumar B N
+
 gmail: kishorekumarbn18@gmail.com
