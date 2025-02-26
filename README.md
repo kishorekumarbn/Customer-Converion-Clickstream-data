@@ -14,14 +14,23 @@ This project leverages **Machine Learning** to analyze customer behavior using *
 ## 🚀 Features
 - **📂 CSV Upload & Manual Input:** Choose between uploading a dataset or entering data manually.
 - **🧠 Machine Learning Models:
-- ** Uses **XGBoost Regressor,
+- ** Uses **
+   XGBoost Regressor,
+  
    Linear Regression,
+  
    Ridge,
+  
    Lasso,
+  
    Logistic Regression,
+  
    Decision Tree Classifier,
+  
    Random Forest Classifier,
+  
    DBSCAN
+  
    and KMeans Clustering**.
 - **🔍 Automated Data Preprocessing:** Handles missing values, encodes categorical features, and scales data.
 - **📊 Intuitive Predictions:** Get real-time insights into pricing, classification, and customer segments.
