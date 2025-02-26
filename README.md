@@ -33,8 +33,7 @@ This project leverages **Machine Learning** to analyze customer behavior using *
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/customer-conversion-analysis.git
-   cd customer-conversion-analysis
+   git clone https://github.com/kishorekumarbn/Customer-Converion-Clickstream-data.git
    ```
 2. Install dependencies:
    ```bash
